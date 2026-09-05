@@ -1,6 +1,6 @@
 # tannusangwan-demo
 <br>
-this is my first own repository. 
+this is my first own repository. okay
 <br>
-author-Tanu
+author-Tanu 
 
